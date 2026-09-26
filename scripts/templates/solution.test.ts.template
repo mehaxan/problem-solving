@@ -1,0 +1,9 @@
+import { test } from "node:test";
+import assert from "node:assert/strict";
+
+import { {{functionName}} } from "./{{moduleName}}.js";
+
+test("{{functionName}}", () => {
+  // TODO: replace with real assertions
+  assert.equal({{functionName}}(), undefined);
+});

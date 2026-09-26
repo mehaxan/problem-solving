@@ -1,0 +1,5 @@
+// TODO: describe the problem
+
+export function {{functionName}}(): void {
+  // TODO: implement
+}
